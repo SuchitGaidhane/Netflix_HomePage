@@ -1,9 +1,10 @@
 # Netflix_HomePage
 
 
-This project is a simplified front end clone of Netflix. It was created with HTML and CSS
+This project is a simplified front end clone of Netflix. It was created with HTML and CSS.
+check out- https://suchitgaidhane.github.io/Netflix_HomePage/
 
-## Preview
+## Preview(https://suchitgaidhane.github.io/Netflix_HomePage/)
 ![Netflix_HomePage_preview](https://github.com/SuchitGaidhane/Netflix_HomePage/assets/131668852/9795b9ff-0daa-44f7-91df-3d3c31064424)
 
 
